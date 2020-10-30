@@ -7,15 +7,15 @@
 <h3>Digital Marketer | Front End Web Developer | Search Engine Optimization Engineer | Project Manager | Content Developer | Data Science Enthusiast</h3>
 </p>
 
-<h4 align="center">I love to code!</h4>
-
 <hr>
 
-<h1 align="center">I can 😁:</h1>
+<h2 align="center">I can 😁:</h2>
 
-- Use HTML, CSS and Javascrpt(ES%, ES6) for the frontend.
-- Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
-<p>
+<p align="center">
+Use HTML, CSS and Javascrpt(ES%, ES6) for the frontend.
+Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
+</p>
+<p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> 
@@ -25,13 +25,13 @@
 </p>
 
 - Use Git/GitHub for efficient code management, code contribution and to set up continuous integration and development (CI/CD)
-<p>
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/> 
 </p>
 
 
-<h1 align="center">Socials 🤝🏾</h1>
+<h2 align="center">Socials 🤝🏾</h2>
 
 <p align="center">
     <a href="https://twitter.com/GeeAkpan" target="_blank">
