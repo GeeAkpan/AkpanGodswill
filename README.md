@@ -1,10 +1,8 @@
 <!-- <h1 align="center"> Hi there 👋🏾 </h1> -->
 
-<img src="https://github.com/GeeAkpan/AkpanGodswill/blob/main/Quote%20with%20Illustrated%20Autumn%20Foliage%20Facebook%20Cover%20(1).png" alt="My Profile Header Image" /> 
+<img  align="center" src="https://github.com/GeeAkpan/AkpanGodswill/blob/main/Quote%20with%20Illustrated%20Autumn%20Foliage%20Facebook%20Cover%20(1).png" alt="My Profile Header Image" /> 
 
 <hr>
-
-I'm <h5>Akpan Godswill</h5>
 
 Digital Marketer
 Front End Web Developer
