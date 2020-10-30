@@ -9,8 +9,8 @@ Digital Marketer | Front End Web Developer | Search Engine Optimization Engineer
 
 <h1 align="center">I can 😁:</h1>
 
-- use HTML, CSS and Javascrpt(ES%, ES6) for the frontend.
-- use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
+- Use HTML, CSS and Javascrpt(ES%, ES6) for the frontend.
+- Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> 
@@ -20,7 +20,7 @@ Digital Marketer | Front End Web Developer | Search Engine Optimization Engineer
     <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="40"/> 
 </p>
 
-- use Git/GitHub for efficient code management, code contribution and to set up continuous integration and development (CI/CD)
+- Use Git/GitHub for efficient code management, code contribution and to set up continuous integration and development (CI/CD)
 <p>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/> 
