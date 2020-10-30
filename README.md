@@ -35,18 +35,18 @@ Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
 
 <p align="center">
     <a href="https://twitter.com/GeeAkpan" target="_blank">
-        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="eni4sure" height="50" />
+        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="gee" height="50" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/godswill-akpan-a52171109/" target="_blank"
-        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="eniola-osabiya" height="50" />
+        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="geeakpan" height="50" />
     </a>
     &nbsp;
     <a href="https://www.facebook.com/akpan.godswill.3956/" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="eni4sure" height="50" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="gee" height="50" />
     </a>
     &nbsp;
     <a href="https://www.instagram.com/akpan_n_godswill/?hl=en" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="eni4sure" height="50" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="geeb" height="50" />
     </a>
 </p>
