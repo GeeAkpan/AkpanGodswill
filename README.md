@@ -3,14 +3,9 @@
 
 <hr>
 
-Digital Marketer
-Front End Web Developer
-Search Engine Optimization Engineer
-Project Manager
-Content Developer
-Data Science Enthusiast
+Digital Marketer | Front End Web Developer | Search Engine Optimization Engineer | Project Manager | Content Developer | Data Science Enthusiast
 
-I love to code!
+<h4 align="center">I love to code!</h4>
 
 <h1 align="center">I can 😁:</h1>
 
