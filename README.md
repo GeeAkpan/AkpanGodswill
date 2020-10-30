@@ -3,9 +3,13 @@
 
 <hr>
 
-Digital Marketer | Front End Web Developer | Search Engine Optimization Engineer | Project Manager | Content Developer | Data Science Enthusiast
+<p align="center">
+<h3>Digital Marketer | Front End Web Developer | Search Engine Optimization Engineer | Project Manager | Content Developer | Data Science Enthusiast</h3>
+</p>
 
 <h4 align="center">I love to code!</h4>
+
+<hr>
 
 <h1 align="center">I can 😁:</h1>
 
